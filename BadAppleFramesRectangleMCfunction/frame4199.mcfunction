@@ -1,0 +1,9 @@
+fill 0 -61 0 479 -61 181 minecraft:white_wool
+fill 0 -61 182 82 -61 182 minecraft:black_wool
+fill 83 -61 182 479 -61 182 minecraft:white_wool
+fill 0 -61 183 288 -61 183 minecraft:black_wool
+fill 289 -61 183 479 -61 183 minecraft:white_wool
+fill 0 -61 184 479 -61 187 minecraft:black_wool
+fill 0 -61 188 460 -61 188 minecraft:black_wool
+fill 461 -61 188 479 -61 188 minecraft:white_wool
+fill 0 -61 189 479 -61 359 minecraft:white_wool

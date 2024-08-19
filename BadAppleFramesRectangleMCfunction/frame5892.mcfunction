@@ -1,0 +1,16 @@
+fill 0 -61 0 231 -61 0 minecraft:black_wool
+fill 232 -61 0 241 -61 0 minecraft:white_wool
+fill 242 -61 0 479 -61 0 minecraft:black_wool
+fill 0 -61 1 233 -61 1 minecraft:black_wool
+fill 234 -61 1 241 -61 1 minecraft:white_wool
+fill 242 -61 1 479 -61 1 minecraft:black_wool
+fill 0 -61 2 235 -61 2 minecraft:black_wool
+fill 236 -61 2 242 -61 2 minecraft:white_wool
+fill 243 -61 2 479 -61 2 minecraft:black_wool
+fill 0 -61 3 236 -61 3 minecraft:black_wool
+fill 237 -61 3 242 -61 3 minecraft:white_wool
+fill 243 -61 3 479 -61 3 minecraft:black_wool
+fill 0 -61 4 239 -61 4 minecraft:black_wool
+fill 240 -61 4 242 -61 4 minecraft:white_wool
+fill 243 -61 4 479 -61 4 minecraft:black_wool
+fill 0 -61 5 479 -61 359 minecraft:black_wool
